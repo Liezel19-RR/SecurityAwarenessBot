@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSecurityBot.exe.config
+C:\Users\Student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSecurityBot.exe
+C:\Users\Student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\CyberSecurityBot.pdb
+C:\Users\Student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.exe
+C:\Users\Student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.pdb
+C:\Users\Student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\CyberSecurityBot.exe.config
